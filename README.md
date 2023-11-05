@@ -17,6 +17,6 @@ even if I could've done it way better now that I think about it.
 - **W/UP ARROW:** Move forward
 - **A/LEFT ARROW:** Move to left
 - **S/DOWN ARROW:** Move down
-- **D/RIGHT ARRORW:** Move right
+- **D/RIGHT ARRORW:** Move to right
 - **INSERT:** Open world editor
 - **ESC:** Pause
