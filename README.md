@@ -11,7 +11,7 @@ even if I could've done it way better now that I think about it.
 1. Head into releases -> <latest release>
 2. Download the release and extract it wherever you want to store the game
 3. Run SuperPumpkin.exe
-4. Have fun!
+4. Have fun and don't crash!
 
 ## Keybinds
 - **W/UP ARROW:** Move forward
