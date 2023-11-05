@@ -14,7 +14,7 @@ even if I could've done it way better now that I think about it.
 4. Have fun and don't crash!
 
 ## Keybinds
-- **W/UP ARROW:** Move forward
+- **W/UP ARROW:** Move up/jump
 - **A/LEFT ARROW:** Move to left
 - **S/DOWN ARROW:** Move down
 - **D/RIGHT ARRORW:** Move to right
