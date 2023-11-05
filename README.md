@@ -8,10 +8,10 @@ Honestly it's just some mess I cooked up for TTHK's first Game Jam event and I h
 even if I could've done it way better now that I think about it.
 
 ## Installation
-- 1. Head into releases -> <latest release>
-- 2. Download the release and extract it wherever you want to store the game
-- 3. Run SuperPumpkin.exe
-- 4. Have fun!
+1. Head into releases -> <latest release>
+2. Download the release and extract it wherever you want to store the game
+3. Run SuperPumpkin.exe
+4. Have fun!
 
 ## Keybinds
 - **W/UP ARROW:** Move forward
