@@ -1,1 +1,0 @@
-copy "%AppData%\superpumpkin\gamesave.dat" "%~dp0\gamesave.dat"
