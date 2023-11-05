@@ -19,4 +19,5 @@ even if I could've done it way better now that I think about it.
 - **S/DOWN ARROW:** Move down
 - **D/RIGHT ARRORW:** Move to right
 - **INSERT:** Open world editor
+- **Z:** Undo tile placements
 - **ESC:** Pause
